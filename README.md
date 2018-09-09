@@ -1,3 +1,2 @@
-#work note
-personal work note,
+#personal work note,
 record bugs and ideas
