@@ -1,2 +1,3 @@
-# log-blog
-work log and personal blog
+#work note
+personal work note,
+record bugs and ideas
